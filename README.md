@@ -1,10 +1,11 @@
 # Dashboard de Vendas - Projeto Excel com Inteligência Artificial
 
 ## Descrição do Projeto
-Este projeto tem como objetivo criar um dashboard de vendas no Excel para facilitar a visualização e análise dos dados brutos de assinaturas. O dashboard apresenta gráficos e tabelas que ajudam a entender o desempenho de vendas de planos, pacotes extras e cupons aplicados.
+Este repositório faz parte do desafio prático do curso **"Excel com Inteligência Artificial"** da plataforma DIO. O objetivo é organizar e disponibilizar um dashboard de vendas desenvolvido no Excel, utilizando uma planilha fornecida pela própria DIO.
 
 ## Dados Utilizados
-Os dados utilizados neste projeto foram fornecidos pela plataforma DIO e incluem informações como:
+A planilha utilizada foi disponibilizada pela DIO como material de apoio ao desafio. Ela contém dados fictícios relacionados a assinaturas de planos digitais, incluindo:
+
 - Nome do assinante
 - Tipo de plano (Core, Standard, Ultimate)
 - Data de início da assinatura
@@ -17,8 +18,8 @@ Os dados utilizados neste projeto foram fornecidos pela plataforma DIO e incluem
 ## Como usar o projeto
 1. Baixe o arquivo `DashboardVendas.xlsx`.
 2. Abra-o no Microsoft Excel (recomendado Excel 2016 ou superior).
-3. Navegue pela aba "Dashboard" para visualizar as métricas e gráficos.
-4. Os dados estão organizados em abas específicas para facilitar a compreensão e atualização.
+3. Acesse a aba **Dashboard** para visualizar gráficos e indicadores.
+4. As demais abas contêm dados brutos e cálculos que alimentam o painel principal.
 
 ## Ferramentas Utilizadas
 - Microsoft Excel
@@ -26,9 +27,13 @@ Os dados utilizados neste projeto foram fornecidos pela plataforma DIO e incluem
 - Segmentações de Dados
 - Gráficos Interativos
 
+## Observações
+- A planilha foi fornecida pela DIO como base para o desafio.
+- O foco desta entrega está na estruturação e publicação do projeto no GitHub.
+
 ## Autor
 Silas Paulo da Costa
 
 ---
 
-Qualquer dúvida ou sugestão, entre em contato.
+Projeto entregue como parte do curso da [DIO.me](https://www.dio.me/).
