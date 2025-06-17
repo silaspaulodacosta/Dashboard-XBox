@@ -1,7 +1,7 @@
 # Dashboard de Vendas - Projeto Excel com Inteligência Artificial
 
 ## Descrição do Projeto
-Este repositório faz parte do desafio prático do curso **"Excel com Inteligência Artificial"** da plataforma DIO. O objetivo é organizar e disponibilizar um dashboard de vendas desenvolvido no Excel, utilizando uma planilha fornecida pela própria DIO.
+Este projeto tem como objetivo criar um dashboard de vendas no Excel para facilitar a visualização e análise dos dados brutos de assinaturas. O dashboard apresenta gráficos e tabelas que ajudam a entender o desempenho de vendas de planos, pacotes extras e cupons aplicados.
 
 ## Dados Utilizados
 A planilha utilizada foi disponibilizada pela DIO como material de apoio ao desafio. Ela contém dados fictícios relacionados a assinaturas de planos digitais, incluindo:
