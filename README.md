@@ -16,7 +16,7 @@ A planilha utilizada foi disponibilizada pela DIO como material de apoio ao desa
 - Valor total pago
 
 ## Como usar o projeto
-1. Baixe o arquivo `Dashboar XBox.xlsx`.
+1. Baixe o arquivo `DashboarXBox.xlsx`.
 2. Abra-o no Microsoft Excel (recomendado Excel 2016 ou superior).
 3. Acesse a aba **Dashboard** para visualizar gráficos e indicadores.
 4. As demais abas contêm dados brutos e cálculos que alimentam o painel principal.
