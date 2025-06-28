@@ -1,4 +1,6 @@
-# 🎮 Dashboard de Vendas – Projeto Excel com Inteligência Artificial
+# 🎮 Dashboard de Vendas - XBox
+
+Este repositório apresenta um **Dashboard de Vendas** desenvolvido no Microsoft Excel, com base em dados de vendas de produtos da linha **XBox**. O projeto faz parte do curso **Excel com Inteligência Artificial**, promovido pelo **Santander** em parceria com a **DIO (Digital Innovation One)**.
 
 ## 📌 Descrição do Projeto
 Este projeto tem como objetivo criar um **dashboard de vendas no Excel** para facilitar a visualização e análise de dados brutos de assinaturas. O painel apresenta gráficos e tabelas que ajudam a entender o desempenho de vendas de planos, pacotes extras e cupons aplicados.
